@@ -3,7 +3,7 @@
 ## 🧑‍🎓 About Me
 - 📚 Undergraduate student majoring in Digital Economy
 - 🧠 INTJ 6w5
-- 🌐 Passionate about Computer Science, Internet, 和 AI technologies
+- 🌐 Passionate about Computer Science, Internet, and AI technologies
 - 📊 Interested in Economics and Finance
 - 🌍 Native Chinese speaker, proficient in English
 - 🚀 Love exploring the unknown, aspiring to become a digital nomad
