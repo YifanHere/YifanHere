@@ -1,5 +1,5 @@
 # Hello, I'm Yifan 👋
-
+[中文版](./README_CN.md)
 ## 🧑‍🎓 About Me
 - 📚 Undergraduate student majoring in Digital Economy
 - 🧠 INTJ 6w5
