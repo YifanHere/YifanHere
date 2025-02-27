@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hello, I'm Yifan 👋
 
-<!--
-**YifanHere/YifanHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🎓 About Me
+- 📚 Undergraduate student majoring in Digital Economy
+- 🧠 INTJ 6w5
+- 🌐 Passionate about Computer Science, Internet, and AI technologies
+- 📊 Interested in Economics and Finance
+- 🌍 Native Chinese speaker, proficient in English
+- 🚀 Love exploring the unknown, aspiring to become a digital nomad
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Uni-app](https://img.shields.io/badge/-Uni_app-2B9939?style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Server Ops](https://img.shields.io/badge/-Server_Operations-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Android Reverse](https://img.shields.io/badge/-Android_Reverse_Engineering-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Gaming Interests
+- 🏗️ Minecraft
+- 💼 Capitalism Lab
+- 🌍 Europa Universalis IV
+- 👑 Victoria 3
+- ⚔️ Crusader Kings III
+
+## 📫 Contact Me
+- ✉️ Email: Yifanerishere@gmail.com
+- 💬 Feel free to reach out about technology, economics, or gaming!
+
+## 📊 GitHub Stats
+![Yifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YifanHere&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YifanHere&layout=compact&theme=radical)
+
+---
+
+⭐️ From [YifanHere](https://github.com/YifanHere)
+
+[中文版](./README_CN.md)
