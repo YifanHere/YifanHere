@@ -29,7 +29,7 @@
 - 💬 Feel free to reach out about technology, economics, or gaming!
 
 ## 📊 GitHub Stats
-![Yifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YifanHere&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Yifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YifanHere&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YifanHere&layout=compact&theme=radical)
 
 ---
