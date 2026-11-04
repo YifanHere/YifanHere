@@ -18,6 +18,7 @@
 ![Android Reverse](https://img.shields.io/badge/-安卓逆向-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ## 🎮 游戏爱好
+- ✈️ 微软模拟飞行2024
 - 🏗️ Minecraft
 - 💼 Capitalism Lab
 - 🌍 欧陆风云4
