@@ -18,6 +18,7 @@
 ![Android Reverse](https://img.shields.io/badge/-Android_Reverse_Engineering-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ## 🎮 Gaming Interests
+- ✈️ Microsoft Flight Simulator 2024
 - 🏗️ Minecraft
 - 💼 Capitalism Lab
 - 🌍 Europa Universalis IV
