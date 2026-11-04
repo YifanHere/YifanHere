@@ -29,8 +29,8 @@
 - 💬 欢迎就技术、经济或游戏相关话题与我交流！
 
 ## 📊 GitHub 统计
-![Yifan的GitHub统计](https://github-readme-stats.vercel.app/api?username=YifanHere&show_icons=true&theme=radical)
-![使用最多的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=YifanHere&layout=compact&theme=radical)
+![Yifan的GitHub统计](https://github-readme-stats-steel-nine.vercel.app/api?username=YifanHere&show_icons=true&theme=radical)
+![使用最多的语言](https://github-readme-stats-steel-nine.vercel.app/api/top-langs/?username=YifanHere&layout=compact&theme=radical)
 
 ---
 

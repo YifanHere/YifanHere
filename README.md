@@ -29,8 +29,8 @@
 - 💬 Feel free to reach out about technology, economics, or gaming!
 
 ## 📊 GitHub Stats
-![Yifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YifanHere&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YifanHere&layout=compact&theme=radical)
+![Yifan's GitHub stats](https://github-readme-stats-steel-nine.vercel.app/api?username=YifanHere&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats-steel-nine.vercel.app/api/top-langs/?username=YifanHere&layout=compact&theme=radical)
 
 ---
 
